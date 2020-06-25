@@ -28,8 +28,7 @@ Here I'm used Django-seed package.Initial step is to run `populate_data.py` and 
 * Created a API `userlist/`that served a JSON file describes a list of users and their corresponding periods of activity across multiple month
 * A python script with `django-seed` package to populate database with dummy data(`populate_data.py`)
 ### Link: 
-The project is deployed in pythonanywhere.com.You can find the output by clicking this link:
-### [userlist](http://akshaycita11.pythonanywhere.com/userlist/)
+The project is deployed in pythonanywhere.com.You can find the output by clicking this link:[userlist](http://akshaycita11.pythonanywhere.com/userlist/)
 
 
 
