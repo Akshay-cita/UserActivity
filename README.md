@@ -10,6 +10,14 @@ User and ActivityPeriod
 
 ## Package Installation Guide
 * Django-seed `pip install django-seed`
+
+Add it to your installed apps in ``settings.py``::
+
+    INSTALLED_APPS = (
+        ...
+        'django_seed',
+    )
+
 * pytz `pip install pytz`
 
 ## Populating the database with dummy data
