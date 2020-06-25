@@ -25,7 +25,7 @@ In the project directory, you can run:
 ### `python populate_data.py`
 Here I'm used Django-seed package.Initial step is to run `populate_data.py` and then run `python manage.py runserver`
 ## Things I have done
-* Created a API `userlist`that served a JSON file describes a list of users and their corresponding periods of activity across multiple month
+* Created a API `userlist/`that served a JSON file describes a list of users and their corresponding periods of activity across multiple month
 * A python script with `django-seed` package to populate database with dummy data(`populate_data.py`)
 ### Link: [userlist](http://akshaycita11.pythonanywhere.com/userlist/)
 
