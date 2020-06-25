@@ -8,8 +8,14 @@ User and ActivityPeriod
 * [DJANGO-REST API](https://www.django-rest-framework.org/api-guide/fields/)-Serializer
 * [Django-seed package](https://github.com/Brobin/django-seed)- To populate the database with dummy data
 
+## Package Installation Guide
+* Django-seed `pip install django-seed`
+* pytz `pip install pytz`
+
 ## Populating the database with dummy data
 In the project directory, you can run:
 ### `python populate_data.py`
-Here I'm used Django-seed package.Initial step is to run `populate_data.py` and then run 
-### `python manage.py runserver`
+Here I'm used Django-seed package.Initial step is to run `populate_data.py` and then run `python manage.py runserver`
+
+
+
